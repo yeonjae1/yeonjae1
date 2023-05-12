@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjae1&count_bg=%2387AFD6&title_bg=%232F6BAE&icon=&icon_color=%23F5F9FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <a href="https://www.instagram.com/rev3e26/"><img src="https://img.shields.io/badge/YeonJae-8E12F3?style=falt&logo=Instagram&logoColor=ffffff"/></a>
 <a href="https://yeonjae1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-9999FF?style=flat&logo=GitHub &logoColor=ffffff"/></a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeonjae1)](https://solved.ac/reverie201)
