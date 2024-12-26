@@ -1,4 +1,4 @@
-### 안뇽나는연재
+### 
 <!--
 **yeonjae1/yeonjae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjae1&layout=compact&bg_color=00000000)](https://github.com/yeonjae1/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjae1&show_icons=true&bg_color=00000000)
   
- 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={yeonjae1}&theme=dark)
+
 </div>
